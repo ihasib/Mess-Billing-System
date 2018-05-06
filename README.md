@@ -2,7 +2,7 @@
 
 This is a real life problem oriented software that we are using in our Mess to ease the total billing issues. The source code of this software is written in C++ language.
 
-This software takes Different types of charges as input i.e.
+This software takes different types of charges as input i.e.
 •	Home rent
 •	Meal cost
 •	Utility costs like electricity, gas, water, servant charge, garage etc.
