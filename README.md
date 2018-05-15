@@ -7,7 +7,7 @@ This software takes different types of charges as input i.e.
 •	Meal cost
 •	Utility costs like electricity, gas, water, servant charge, garage etc.
 
-Summarized result is shown in output (How much one will have to pay per month is part by part shown here, also gross dues are precisely described).
+Summarized result is shown in output.txt (How much one will have to pay per month is part by part shown here, also gross dues are precisely described) file. 
 
 Input is taken from a “.txt” file. There exists a standard format for the input file. 
 
