@@ -1,0 +1,54 @@
+SHORON's total meal = 39
+IMROZE's total meal = 28.5
+MITHUN's total meal = 43
+SONY's total meal = 23
+HASIB's total meal = 13
+
+Total Meal = 146.5
+Total Bazar = 9170
+Per meal cost = 62.5939
+
+
+------------------------------------------------
+
+SHORON = 62.5939 x 39 = 2441.16 - 2394 = -47.1604
+
+IMROZE = 62.5939 x 28.5 = 1783.92 - 1925 = 141.075
+
+MITHUN = 62.5939 x 43 = 2691.54 - 2477 = -214.536
+
+SONY = 62.5939 x 23 = 1439.66 - 1076 = -363.659
+
+HASIB = 62.5939 x 13 = 813.72 - 1298 = 484.28
+
+
+
+------------------------------------------------
+
+Electricity: = 2706
+Gas: = 800
+Water: = 629
+ServantCharge: = 3000
+TrashCharge: = 70
+ExtraCharge: = 0
+Compensation: = 0
+Total utility = 7205
+Average utility =1441
+
+
+
+boarder  room  cloth garage Utility Surplus   Due
+
+
+------------------------------------------------
+
+SHORON = 4720 + 200 + 0 + 1441 - (-47.1604) = 6408.16
+
+IMROZE = 2360 + 200 + 0 + 1441 - (141.075) = 3859.92
+
+MITHUN = 4720 + 200 + 500 + 1441 - (-214.536) = 7075.54
+
+SONY = 2847 + 0 + 0 + 1441 - (-363.659) = 4651.66
+
+HASIB = 2360 + 0 + 0 + 1441 - (484.28) = 3316.72
+
